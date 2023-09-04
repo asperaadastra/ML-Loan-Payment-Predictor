@@ -39,3 +39,10 @@ Seaborn is used for initial data exploration and visualization to gain insights 
 
 Two classification algorithms, DecisionTreeClassifier and RandomForestClassifier, are employed to train the predictive models. Model performance is evaluated using confusion matrices and classification reports to measure accuracy.
 
+
+## Repository Files
+
+Here's a list of the files in this repository:
+
+1. `loan_repayment_prediction.ipynb` - Jupyter Notebook containing the code for the machine learning project.
+3. `LICENSE` - The MIT License file for this project.
