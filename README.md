@@ -39,10 +39,3 @@ Seaborn is used for initial data exploration and visualization to gain insights 
 
 Two classification algorithms, DecisionTreeClassifier and RandomForestClassifier, are employed to train the predictive models. Model performance is evaluated using confusion matrices and classification reports to measure accuracy.
 
-## Usage
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/random-forest-loan-predictor.git
-   cd random-forest-loan-predictor
